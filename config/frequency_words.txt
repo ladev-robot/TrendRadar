@@ -80,17 +80,12 @@ ai
 GPT
 Gemini
 LLM
-AGI
-算力
-推理加速
-模型压缩
-Transformer
 强化学习
 多模态
 深度学习
 AIGC
-RAG
 自动驾驶
+
 机器人
 无人机
 低空经济
@@ -98,7 +93,6 @@ SLAM
 导航算法
 规划算法
 控制算法
-嵌入式
 ROS
 ROS2
 
